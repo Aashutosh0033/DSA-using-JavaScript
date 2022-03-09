@@ -4,5 +4,5 @@
 This repo contains JavaScript based popular Data Structures and Algorithms. <br><br>
 
 ## Data Structures<br>
-[Stack](https://github.com/Aashutosh0033/DSA-using-JavaScript/edit/main/Stack)
+[Stack](https://github.com/Aashutosh0033/DSA-using-JavaScript/edit/main/Stack)<br>
 [Linked List](https://github.com/Aashutosh0033/DSA-using-JavaScript/edit/main/Linked%20List)
